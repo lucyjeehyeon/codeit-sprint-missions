@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+matplotlib
+jupyter
+scikit-learn
+scipy
+python-dotenv
+koreanize-matplotlib
+kiwipiepy
+setuptools
