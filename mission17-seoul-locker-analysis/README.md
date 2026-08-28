@@ -65,6 +65,18 @@ BigQuery와 dbt에서는 `staging → intermediate → mart` 구조로 데이터
 
 ---
 
+### dbt Lineage
+
+![dbt Lineage Graph](./assets/dbt_lineage_graph.png)
+
+dbt에서는 원천 데이터를 staging 계층에서 정리한 뒤,  
+시설·기간 단위 intermediate 모델을 거쳐 자치구 수요·공급 및 이용 추세 Mart를 생성했습니다.
+
+최종적으로 `mart_district_diagnostic`과 `mart_district_trend`를 결합해  
+Looker Studio에서 활용하는 `mart_district_final`을 구성했습니다.
+
+---
+
 ## Dashboard
 
 Looker Studio 대시보드는 다음 5개 화면으로 구성했습니다.
