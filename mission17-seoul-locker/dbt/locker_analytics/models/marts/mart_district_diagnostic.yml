@@ -1,0 +1,58 @@
+version: 2
+
+models:
+
+  - name: mart_district_diagnostic
+    description: >
+      자치구별 공급압력과 실제 활용 수준을 중앙값 기준으로
+      2×2 분류한 현재 상태 진단 Mart.
+
+    columns:
+
+      - name: district
+        description: "서울시 자치구"
+        data_tests:
+          - not_null
+          - unique
+
+      - name: diagnostic_group_code
+        description: "자치구 현재 진단 그룹 코드"
+        data_tests:
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "EXPANSION_CANDIDATE"
+                  - "HIGH_UTILIZATION"
+                  - "LOCATION_REVIEW"
+                  - "LOW_UTILIZATION"
+                  - "DATA_CHECK"
+
+      - name: diagnostic_group_label
+        description: "대시보드 및 보고서용 현재 진단 라벨"
+        data_tests:
+          - not_null
+
+      - name: pressure_median
+        description: "공급압력 2×2 기준 중앙값"
+        data_tests:
+          - not_null
+
+      - name: utilization_median
+        description: "현재 활용 2×2 기준 중앙값"
+        data_tests:
+          - not_null
+
+      - name: data_confidence
+        description: "현재 진단에 사용된 데이터 신뢰도"
+        data_tests:
+
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "high"
+                  - "medium"
+                  - "low"

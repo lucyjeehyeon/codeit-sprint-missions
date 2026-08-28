@@ -1,0 +1,21 @@
+# 가상환경
+.venv/
+.venv-dbt/
+
+# API 키와 인증정보
+.env
+*.json
+
+# Python 임시 파일
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 수집·가공 데이터
+data/raw/
+data/processed/
+
+# dbt 실행 결과
+target/
+dbt_packages/
+logs/

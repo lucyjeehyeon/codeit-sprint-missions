@@ -1,0 +1,73 @@
+version: 2
+
+models:
+
+  - name: mart_balanced_panel_trend
+    description: >
+      2021~2026 H1 모든 기간에 이용건수가 존재하는
+      동일 202개 시설을 고정한 서울 전체 Balanced Panel 추세.
+
+    columns:
+
+      - name: period
+        data_tests:
+          - not_null
+          - unique
+
+      - name: balanced_facility_count
+        data_tests:
+          - not_null
+
+      - name: period_label
+        data_tests:
+          - not_null
+
+
+  - name: mart_district_trend
+    description: >
+      동일 시설 Balanced Panel을 이용해 계산한
+      서울시 25개 자치구별 장기·최근 이용 추세 Mart.
+
+    columns:
+
+      - name: district
+        data_tests:
+          - not_null
+          - unique
+
+      - name: balanced_facility_count
+        data_tests:
+          - not_null
+
+      - name: long_term_trend
+        data_tests:
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "장기 증가"
+                  - "장기 감소"
+                  - "대체로 유지"
+
+      - name: recent_trend
+        data_tests:
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "최근 증가"
+                  - "최근 감소"
+                  - "최근 유지"
+
+      - name: trend_data_confidence
+        data_tests:
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "high"
+                  - "medium"
+                  - "limited"

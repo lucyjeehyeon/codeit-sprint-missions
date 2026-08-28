@@ -1,0 +1,75 @@
+version: 2
+
+models:
+
+  - name: mart_district_final
+    description: >
+      현재 공급압력·실제 활용 수준과 Balanced Panel 장기 추세,
+      최근 변화, 데이터 신뢰도를 결합한 서울시 25개 자치구
+      최종 의사결정 Mart.
+
+    columns:
+
+      - name: district
+        description: "서울시 자치구"
+        data_tests:
+          - not_null
+          - unique
+
+
+      - name: final_action_code
+        description: "최종 실행방향 코드"
+        data_tests:
+          - not_null
+
+
+      - name: final_action_label
+        description: "보고서 및 대시보드용 최종 실행방향"
+        data_tests:
+          - not_null
+
+
+      - name: action_tier
+        description: "실행 우선순위 Tier"
+        data_tests:
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values: [1, 2, 3, 4]
+                quote: false
+
+
+      - name: final_evidence_strength
+        description: "최종 판단 근거 신뢰도"
+        data_tests:
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "high"
+                  - "medium"
+                  - "limited"
+
+
+      - name: long_term_signal
+        data_tests:
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "positive"
+                  - "stable"
+                  - "negative"
+
+
+      - name: recent_signal
+        data_tests:
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "positive"
+                  - "stable"
+                  - "negative"

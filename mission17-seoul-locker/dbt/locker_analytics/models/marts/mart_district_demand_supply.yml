@@ -1,0 +1,45 @@
+version: 2
+
+models:
+
+  - name: mart_district_demand_supply
+    description: >
+      2025년 1인가구 잠재수요, 2026-08 현재 안심택배함 공급,
+      2026 H1 실제 이용을 자치구 단위로 통합한 분석 Mart.
+      district 1개가 1행의 grain을 가진다.
+
+    columns:
+
+      - name: district
+        description: "서울시 자치구"
+        data_tests:
+          - not_null
+          - unique
+
+
+      - name: one_person_total
+        description: "2025년 자치구 전체 1인가구 수"
+        data_tests:
+          - not_null
+
+
+      - name: current_facility_count
+        description: "현재 위치 원천 기준 안심택배함 시설 수"
+        data_tests:
+          - not_null
+
+
+      - name: one_person_households_per_facility
+        description: "현재 시설 1개가 담당하는 1인가구 수"
+        data_tests:
+          - not_null
+
+
+      - name: usage_coverage_pct
+        description: "현재 공급시설 중 2026 H1 이용건수가 관측된 시설 비율"
+        data_tests:
+          - not_null
+
+
+      - name: weighted_monthly_usage_per_locker
+        description: "보관함 규모를 고려한 함당 월평균 이용건수"

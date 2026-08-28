@@ -1,0 +1,131 @@
+version: 2
+
+models:
+
+  # ==========================================================
+  # 시설 × 기간 실적
+  # ==========================================================
+
+  - name: stg_locker_metrics_long
+    description: >
+      2021~2026 H1 서울시 안심택배함 시설별 이용실적 데이터.
+      locker_stat_id × period가 1행의 grain을 가진다.
+
+    columns:
+
+      - name: locker_stat_id
+        description: "실적 데이터 시설 ID"
+        data_tests:
+          - not_null
+
+      - name: district
+        description: "서울시 자치구"
+        data_tests:
+          - not_null
+
+      - name: period
+        description: "실적 기준 기간"
+        data_tests:
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "2021"
+                  - "2022"
+                  - "2023"
+                  - "2024"
+                  - "2025"
+                  - "2026_h1"
+
+      - name: operation_status
+        description: "시설 운영 상태"
+        data_tests:
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "운영"
+                  - "철거"
+
+      - name: data_quality_status
+        description: "원천 데이터 품질 상태"
+        data_tests:
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "ok"
+                  - "source_conflict"
+
+      - name: months_observed
+        description: "해당 기간의 관측 개월 수"
+        data_tests:
+          - not_null
+
+
+  # ==========================================================
+  # 자치구 × 연령별 1인가구
+  # ==========================================================
+
+  - name: stg_households_by_age
+    description: >
+      2025년 서울시 자치구·연령그룹별 1인가구 데이터.
+      district × age_group이 1행의 grain을 가진다.
+
+    columns:
+
+      - name: district
+        description: "서울시 자치구"
+        data_tests:
+          - not_null
+
+      - name: age_group
+        description: "연령 그룹"
+        data_tests:
+          - not_null
+
+      - name: one_person_households
+        description: "해당 연령그룹의 1인가구 수"
+        data_tests:
+          - not_null
+
+      - name: reference_year
+        description: "통계 기준연도"
+        data_tests:
+          - not_null
+
+
+  # ==========================================================
+  # 자치구별 1인가구 요약
+  # ==========================================================
+
+  - name: stg_households_district
+    description: >
+      2025년 서울시 25개 자치구별 1인가구 요약 데이터.
+      district 1개가 1행의 grain을 가진다.
+
+    columns:
+
+      - name: district
+        description: "서울시 자치구"
+        data_tests:
+          - not_null
+          - unique
+
+      - name: one_person_total
+        description: "자치구 전체 1인가구 수"
+        data_tests:
+          - not_null
+
+      - name: reference_year
+        description: "통계 기준연도"
+        data_tests:
+          - not_null
+
+      - name: reconciliation_difference
+        description: >
+          전체 1인가구 수와 연령구간 합계 간 차이.
+          정상 데이터에서는 0이어야 한다.
+        data_tests:
+          - not_null

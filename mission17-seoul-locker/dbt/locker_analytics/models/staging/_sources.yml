@@ -1,0 +1,60 @@
+version: 2
+
+sources:
+
+  - name: locker_source
+    database: mission17-locker-jh-2608
+    schema: analytics_seoul_locker
+
+    tables:
+
+      - name: stg_locker_locations
+        description: "안심택배함 위치 및 시설 기본정보"
+
+      - name: stg_locker_metrics_long
+        description: "안심택배함 기간별 이용실적 Long Format"
+
+      - name: stg_households_by_age
+        description: "자치구별 연령대별 1인가구 데이터"
+
+      - name: stg_households_district
+        description: "자치구별 1인가구 집계 데이터"
+
+
+  - name: boundary_source
+    database: mission17-locker-jh-2608
+    schema: raw_seoul_locker
+
+    tables:
+
+      - name: district_boundary
+        description: "서울시 25개 자치구 행정경계 및 중심좌표"
+
+        columns:
+
+          - name: district
+            description: "서울시 자치구명"
+            data_tests:
+              - not_null
+              - unique
+
+          - name: district_code
+            description: "시군구 코드"
+            data_tests:
+              - not_null
+              - unique
+
+          - name: geometry_wkt
+            description: "EPSG:4326 기준 자치구 경계 WKT"
+            data_tests:
+              - not_null
+
+          - name: centroid_latitude
+            description: "자치구 중심점 위도"
+            data_tests:
+              - not_null
+
+          - name: centroid_longitude
+            description: "자치구 중심점 경도"
+            data_tests:
+              - not_null

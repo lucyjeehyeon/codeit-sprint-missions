@@ -1,0 +1,61 @@
+# ============================================================
+# 서울시 안심택배함 분석 dbt 프로젝트
+# ============================================================
+
+name: "locker_analytics"
+version: "1.0.0"
+
+profile: "locker_analytics"
+
+
+# ------------------------------------------------------------
+# dbt 파일 경로
+# ------------------------------------------------------------
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+
+# ------------------------------------------------------------
+# dbt가 생성하는 임시 결과물
+# ------------------------------------------------------------
+
+target-path: "target"
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+
+# ============================================================
+# 모델별 Materialization 설정
+# ============================================================
+#
+# staging
+#   → 원천을 가볍게 정리하는 계층
+#   → VIEW
+#
+# intermediate
+#   → JOIN / 지표 계산 등 중간 가공
+#   → TABLE
+#
+# marts
+#   → Looker / 분석에서 사용하는 최종 결과
+#   → TABLE
+# ============================================================
+
+models:
+  locker_analytics:
+
+    staging:
+      +materialized: view
+
+    intermediate:
+      +materialized: table
+
+    marts:
+      +materialized: table

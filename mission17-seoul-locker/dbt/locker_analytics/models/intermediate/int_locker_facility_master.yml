@@ -1,0 +1,52 @@
+version: 2
+
+models:
+
+  - name: int_locker_facility_master
+    description: >
+      현재 위치 원천과 시설 이용실적 원천을
+      자치구 및 정규화 주소 기준으로 연결한 통합 시설 Master.
+      facility_entity_id 1개가 1행의 grain을 가진다.
+
+    columns:
+
+      - name: facility_entity_id
+        description: "두 원천을 통합한 시설 Entity 고유 ID"
+        data_tests:
+          - not_null
+          - unique
+
+      - name: district
+        description: "서울시 자치구"
+        data_tests:
+          - not_null
+
+      - name: source_match_status
+        description: "위치·실적 원천 간 시설 연결 상태"
+        data_tests:
+
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "matched"
+                  - "location_only"
+                  - "metrics_only"
+                  - "unknown"
+
+      - name: facility_analysis_status
+        description: "현재 위치 및 실적 운영상태를 종합한 분석용 시설 상태"
+        data_tests:
+
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "current_matched_operating"
+                  - "current_status_conflict"
+                  - "current_location_only"
+                  - "metrics_operating_not_current"
+                  - "historical_removed"
+                  - "other"

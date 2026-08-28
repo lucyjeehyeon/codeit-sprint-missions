@@ -1,0 +1,42 @@
+version: 2
+
+models:
+
+  - name: stg_district_boundary
+    description: >
+      서울시 25개 자치구 행정경계와 중심좌표를
+      BigQuery GEOGRAPHY 타입으로 변환한 staging 모델.
+
+    columns:
+
+      - name: district_code
+        description: "시군구 코드"
+        data_tests:
+          - not_null
+          - unique
+
+      - name: district
+        description: "서울시 자치구명"
+        data_tests:
+          - not_null
+          - unique
+
+      - name: district_geom
+        description: "서울시 자치구 행정경계 GEOGRAPHY"
+        data_tests:
+          - not_null
+
+      - name: centroid_latitude
+        description: "자치구 중심점 위도"
+        data_tests:
+          - not_null
+
+      - name: centroid_longitude
+        description: "자치구 중심점 경도"
+        data_tests:
+          - not_null
+
+      - name: district_centroid
+        description: "자치구 중심점 GEOGRAPHY"
+        data_tests:
+          - not_null

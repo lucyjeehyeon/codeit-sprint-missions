@@ -1,0 +1,35 @@
+version: 2
+
+models:
+
+  - name: mart_district_dashboard
+    description: >
+      서울시 자치구 최종 진단 결과에 행정경계와 중심점을 결합한
+      Looker Studio 대시보드 전용 Mart.
+
+    columns:
+
+      - name: district
+        data_tests:
+          - not_null
+          - unique
+
+      - name: district_geom
+        data_tests:
+          - not_null
+
+      - name: district_centroid
+        data_tests:
+          - not_null
+
+      - name: centroid_latitude
+        data_tests:
+          - not_null
+
+      - name: centroid_longitude
+        data_tests:
+          - not_null
+
+      - name: final_action_label
+        data_tests:
+          - not_null

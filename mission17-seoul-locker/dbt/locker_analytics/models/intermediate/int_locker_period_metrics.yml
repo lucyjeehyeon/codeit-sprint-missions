@@ -1,0 +1,71 @@
+version: 2
+
+models:
+
+  - name: int_locker_period_metrics
+    description: >
+      시설별 기간 실적에 통합 Facility Master를 연결한
+      시설 × 기간 Intermediate 테이블.
+      locker_stat_id × period가 1행의 grain을 가진다.
+
+    columns:
+
+      - name: locker_stat_id
+        description: "실적 원천의 시설 고유 ID"
+        data_tests:
+          - not_null
+
+
+      - name: facility_entity_id
+        description: "Facility Master의 통합 시설 Entity ID"
+        data_tests:
+          - not_null
+
+
+      - name: district
+        description: "서울시 자치구"
+        data_tests:
+          - not_null
+
+
+      - name: period
+        description: "분석 기간"
+        data_tests:
+
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "2021"
+                  - "2022"
+                  - "2023"
+                  - "2024"
+                  - "2025"
+                  - "2026_h1"
+
+
+      - name: period_completeness
+        description: "완결연도 또는 부분연도 구분"
+        data_tests:
+
+          - not_null
+
+          - accepted_values:
+              arguments:
+                values:
+                  - "full_year"
+                  - "partial_year"
+                  - "other"
+
+
+      - name: months_observed
+        description: "해당 기간 실제 관측 개월 수"
+        data_tests:
+          - not_null
+
+
+      - name: usable_for_monthly_comparison
+        description: "월평균 이용 비교 가능 여부"
+        data_tests:
+          - not_null

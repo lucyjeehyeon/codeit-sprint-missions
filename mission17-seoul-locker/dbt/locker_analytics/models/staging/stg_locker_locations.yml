@@ -1,0 +1,41 @@
+version: 2
+
+models:
+  - name: stg_locker_locations
+    description: >
+      서울시 안심택배함 현재 위치 데이터.
+      2026-08-26 기준 시설별 주소와 위·경도 정보를 포함하며,
+      locker_id 1개가 시설 1개를 의미한다.
+
+    columns:
+
+      - name: locker_id
+        description: "안심택배함 시설 고유 ID"
+        data_tests:
+          - not_null
+          - unique
+
+      - name: district
+        description: "서울시 자치구"
+        data_tests:
+          - not_null
+
+      - name: locker_name
+        description: "안심택배함 시설명"
+        data_tests:
+          - not_null
+
+      - name: latitude
+        description: "시설 위도"
+        data_tests:
+          - not_null
+
+      - name: longitude
+        description: "시설 경도"
+        data_tests:
+          - not_null
+
+      - name: collection_date
+        description: "위치 데이터 수집 기준일"
+        data_tests:
+          - not_null
