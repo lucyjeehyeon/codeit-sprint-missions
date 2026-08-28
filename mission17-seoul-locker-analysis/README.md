@@ -51,12 +51,34 @@
 
 ## Data Pipeline
 
-```text
-공공데이터 수집
-→ 데이터 정제 및 품질검사
-→ GCS 적재
-→ BigQuery
-→ dbt 모델링
-→ Python 추가 분석
-→ BigQuery 분석 Mart 적재
+공공데이터 수집  
+→ 데이터 정제 및 품질검사  
+→ GCS 적재  
+→ BigQuery  
+→ dbt 모델링  
+→ Python 추가 분석  
+→ BigQuery 분석 Mart 재적재  
 → Looker Studio
+
+BigQuery와 dbt에서는 `staging → intermediate → mart` 구조로 데이터를 구성하고,  
+최종적으로 자치구별 수요·공급·현재 활용·장기 추세를 하나의 분석 Mart로 통합했습니다.
+
+---
+
+## Dashboard
+
+Looker Studio 대시보드는 다음 5개 화면으로 구성했습니다.
+
+- **Overview**: 핵심 운영 현황과 진단 결과 요약
+- **지역 진단**: 자치구별 공급 압력과 활용도를 비교해 우선 검토 지역 탐색
+- **이용 추세**: 장기 이용 변화와 최근 변화를 통해 수요 변곡 확인
+- **시설 진단**: 개별 시설의 이용실적과 데이터 상태 점검
+- **Action Center**: 진단 결과를 실행 단계와 권고 액션으로 연결
+
+---
+
+## Files
+
+- [Analysis Notebook](./seoul_locker_analysis.ipynb)
+- [Analysis Report](./seoul_locker_analysis_report.pdf)
+- [Dashboard](./seoul_locker_dashboard.pdf)
