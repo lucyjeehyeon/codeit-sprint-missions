@@ -79,6 +79,6 @@ Looker Studio 대시보드는 다음 5개 화면으로 구성했습니다.
 
 ## Files
 
-- [Analysis Notebook](./seoul_locker_analysis.ipynb)
+- [Analysis Notebook](https://github.com/lucyjeehyeon/codeit-sprint-missions/blob/main/mission17-seoul-locker-analysis/notebooks/mission17_seoul_locker_analysis.ipynb)
 - [Analysis Report](./seoul_locker_analysis_report.pdf)
-- [Dashboard](./seoul_locker_dashboard.pdf)
+- [Dashboard](https://github.com/lucyjeehyeon/codeit-sprint-missions/blob/main/mission17-seoul-locker-analysis/dashboard/seoul_locker_dashboard.pdf)
