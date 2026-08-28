@@ -1,0 +1,233 @@
+﻿locker_id,district,locker_name,address,full_address,latitude,longitude,collection_date,district_source,address_source,quality_status
+LKR_a2147b8d6417,관악구,국사봉체육관,국회단지길 144,서울특별시 관악구 국회단지길 144,37.4915565,126.9417864,2026-08-26,official_reference,official_reference,corrected
+LKR_395f4baffd7b,중구,충무창업큐브,광희동 퇴계로 265,서울특별시 중구 광희동 퇴계로 265,37.56297,127.0012,2026-08-26,official_reference,seoul_open_api,corrected
+LKR_eae21d5abe1a,강동구,강동구 평생학습관,구천면로 395,서울특별시 강동구 구천면로 395,37.55099,127.14269,2026-08-26,official_reference,seoul_open_api,corrected
+LKR_f090964198dc,관악구,미성체육관,난우16길 37,서울특별시 관악구 난우16길 37,37.47781,126.91912,2026-08-26,official_reference,seoul_open_api,corrected
+LKR_c0d5c759d29c,성동구,응봉동공영주차장,독서당로63길 40,서울특별시 성동구 독서당로63길 40,37.5533232,127.0307171,2026-08-26,official_reference,seoul_open_api,corrected
+LKR_1f59fee2a818,서초구,양재1동 반딧불센터,양재천로 125-10,서울특별시 서초구 양재천로 125-10,37.4785771,127.0413752,2026-08-26,official_reference,seoul_open_api,corrected
+LKR_8482980bbedc,강동구,천호청소년문화의집,천중로 61,서울특별시 강동구 천중로 61,37.54515,127.12879,2026-08-26,official_reference,seoul_open_api,corrected
+LKR_887abf8acf07,강동구,구립안말경로당,풍성로45길 11,서울특별시 강동구 풍성로45길 11,37.53122,127.129853,2026-08-26,official_reference,seoul_open_api,corrected
+LKR_7eeaa34098a5,중랑구,상봉2동 주민센터,동일로 114길 10,서울특별시 중랑구 동일로 114길 10,37.59311,127.0809,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_d9606668226b,중랑구,면목5동 주민센터,동일로 619,서울특별시 중랑구 동일로 619,37.58575281,127.0794744,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_d4dc5ef6efa6,중랑구,면목4동주민센터,면목로 246,서울특별시 중랑구 면목로 246,37.57470148,127.0856085,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_ab094096a63a,중랑구,면목본동 주민센터,면목로 397,서울특별시 중랑구 면목로 397,37.58735563,127.0875552,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_0a1eac3fa5f1,중랑구,상봉1동주민센터,상봉중앙로1길 6,서울특별시 중랑구 상봉중앙로1길 6,37.59981,127.08724,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_ffe3439a216e,중구,약수교회 식당입구,다산로8길 32,서울특별시 중구 다산로8길 32,37.55254904,127.0109231,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_00d68369e68e,중구,장충체육관 후문,동호로 241,서울특별시 중구 동호로 241,37.55864066,127.0066775,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_66f173257cdc,중구,버티 공영주차장,동호로17길 270,서울특별시 중구 동호로17길 270,37.54907252,127.0063049,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_e7319af40014,종로구,종로육아종합지원센터,성균관로1길 6-3,서울특별시 종로구 성균관로1길 6-3,37.58343832,126.9977809,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_1a1255d8d36e,종로구,청운효자동 자치회관,자하문로19길 36,서울특별시 종로구 자하문로19길 36,37.58183052,126.9692258,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_420b67445ade,종로구,숭인제2동주민센터,종로65길 10,서울특별시 종로구 종로65길 10,37.574875,127.019961,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_05adf4539439,종로구,숭인1동 주민센터,지봉로 86,서울특별시 종로구 지봉로 86,37.57782274,127.0156282,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_43f83731d718,종로구,종로구민회관,지봉로5길 7-5,서울특별시 종로구 지봉로5길 7-5,37.5735,127.014367,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_b4bb70d8b70a,은평구,연신내 지구대,갈현로 195,서울특별시 은평구 갈현로 195,37.61521273,126.9127089,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_1c5c3163e1f1,은평구,갈현1동 주민센터,갈현로 301,서울특별시 은평구 갈현로 301,37.62368848,126.9166888,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_775652052a2c,은평구,구산동주민센터,갈현로17길 10,서울특별시 은평구 갈현로17길 10,37.61175587,126.9103541,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_b37d290436fa,은평구,불광1동 치안센터,불광로 129,서울특별시 은평구 불광로 129,37.61830296,126.9329288,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_4afa217cc9ca,은평구,역촌동 주민센터,연서로 59,서울특별시 은평구 연서로 59,37.60440243,126.9151008,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_5071e32c49ba,은평구,녹번 119안전센터,은평로 245,서울특별시 은평구 은평로 245,37.601105,126.9351461,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_775d17bfe52c,은평구,신사종합사회복지관,은평로 38,서울특별시 은평구 은평로 38,37.59804776,126.9121957,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_39a1a8eee125,은평구,증산 정보도서관,증산로5길 6,서울특별시 은평구 증산로5길 6,37.58280941,126.9076713,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_ccf8f488b7fb,은평구,갈현청소년센터쉼쉼,통일로89길 6-20,서울특별시 은평구 통일로89길 6-20,37.625481,126.919433,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_80bb0d65c8de,용산구,용산구청후문,녹사평대로 150,서울특별시 용산구 녹사평대로 150,37.53245232,126.9904788,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_4aa76fbb1a84,용산구,갈월종합사회복지관,두텁바위로 25,서울특별시 용산구 두텁바위로 25,37.54577416,126.9748245,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_889000180317,용산구,용산꿈나무종합타운,백범로 329,서울특별시 용산구 백범로 329,37.53890384,126.9650122,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_84f28fca13a8,용산구,용산치안센터(2가동주민센터),신흥로 90,서울특별시 용산구 신흥로 90,37.54607483,126.9855706,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9199b7df0baf,용산구,한남동공영주차장,이태원로 224-19,서울특별시 용산구 이태원로 224-19,37.53485711,127.0002687,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_e41442241411,용산구,보광동주민센터,장문로 95,서울특별시 용산구 장문로 95,37.5263,127.000183,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_a63489137f6b,용산구,효창동주민센터,효창원로 161,서울특별시 용산구 효창원로 161,37.54250832,126.9618378,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_2311cf0320e9,용산구,숙대 명재관 인근,효창원로86길 33,서울특별시 용산구 효창원로86길 33,37.54700557,126.9650752,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_edcbed3e158d,영등포구,그린케어센터,당산로29길 9,서울특별시 영등포구 당산로29길 9,37.52598152,126.8939756,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_b6fb8a8c10c0,영등포구,다사랑어린이공원(경로당),대림로23가길 5,서울특별시 영등포구 대림로23가길 5,37.4928339,126.8992264,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_e489d30ebe94,영등포구,신길6동 복지관,대방천로 193,서울특별시 영등포구 대방천로 193,37.499203,126.912428,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_97e2b92d3b7e,영등포구,대림정보문화도서관,도신로 27,서울특별시 영등포구 도신로 27,37.50431876,126.8960774,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_947c5ff7defb,영등포구,도림동 주민센터,도영로7길 10,서울특별시 영등포구 도영로7길 10,37.50949341,126.8959996,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_26983dad932d,영등포구,영등포 평생학습관,버드나루로15길 10,서울특별시 영등포구 버드나루로15길 10,37.52599162,126.9072622,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_5185d3e79f3d,영등포구,신길4동1동1마을공영주차장,신길로40길 5,서울특별시 영등포구 신길로40길 5,37.50715234,126.9116553,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_01278c2fedf9,영등포구,영등포본동주민센터,신길로61길 17,서울특별시 영등포구 신길로61길 17,37.51466634,126.9093393,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_adc938b5b61f,영등포구,영등포 제1스포츠센터,신풍로 1,서울특별시 영등포구 신풍로 1,37.500542,126.906306,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_066a283091b1,영등포구,신길7동 주민센터,여의대방로43길 10,서울특별시 영등포구 여의대방로43길 10,37.50639206,126.9215141,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_7f265707f6d5,영등포구,신길1동 주민센터,영등포로84길 24-5,서울특별시 영등포구 영등포로84길 24-5,37.51116877,126.9214423,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_a6a24932d44f,양천구,신월3동주민센터,남부순환로54길 5,서울특별시 양천구 남부순환로54길 5,37.53363175,126.8290822,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_672e077ef1c2,양천구,목3동주민센터,목동중앙남로16나길 55,서울특별시 양천구 목동중앙남로16나길 55,37.54474118,126.8644361,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_e94bd93df648,양천구,목동실버복지문화센터,목동중앙로3길 21,서울특별시 양천구 목동중앙로3길 21,37.53646453,126.869268,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_93deb737281f,양천구,목동문화체육센터,목동중앙본로 73,서울특별시 양천구 목동중앙본로 73,37.54280842,126.8690875,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_95eecef60ca5,양천구,목동보건지소,목동중앙본로7가길 11,서울특별시 양천구 목동중앙본로7가길 11,37.54008816,126.8669731,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_874240e4bb24,양천구,신정4동주민센터,오목로34길 5,서울특별시 양천구 오목로34길 5,37.52456033,126.8558029,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_032775565517,양천구,신월4동주민센터,오목로5길 34,서울특별시 양천구 오목로5길 34,37.52469581,126.8400811,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_43719eefd7d8,양천구,양천나눔누리센터,중앙로 250,서울특별시 양천구 중앙로 250,37.51890134,126.8537493,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_dd53f094d00f,양천구,신월문화체육센터,지양로 47,서울특별시 양천구 지양로 47,37.52044809,126.8345672,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_1c1ee40a524d,양천구,신월5동주민센터,화곡로4길 10,서울특별시 양천구 화곡로4길 10,37.53858212,126.8271743,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_69d0114ac109,송파구,거여2동주민센터,거마로2길 19,서울특별시 송파구 거마로2길 19,37.49353895,127.1468273,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_0fe03792b04f,송파구,문정1동 주민센터,동남로 116,서울특별시 송파구 동남로 116,37.49007381,127.1241807,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_4972e4cfa3e8,송파구,여의도 순복음송파교회,마천로 17,서울특별시 송파구 마천로 17,37.51010728,127.1229655,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_4e989c72f3ee,송파구,마천2동주민센터,마천로 287,서울특별시 송파구 마천로 287,37.49684222,127.1485343,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_8c69250b8c70,송파구,삼전지구대,백제고분로 238,서울특별시 송파구 백제고분로 238,37.5027240302616,127.0927258733576,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_881d8cd2c61e,송파구,송파노인종합복지관,백제고분로32길 41,서울특별시 송파구 백제고분로32길 41,37.49866848,127.0948956,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_7bc67b797a6c,송파구,석촌동주민센터,백제고분로37길 16,서울특별시 송파구 백제고분로37길 16,37.50356292,127.1036842,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_18ead41cb320,송파구,송파여성 문화회관,백제고분로42길 5,서울특별시 송파구 백제고분로42길 5,37.50592939,127.1097315,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_e2267d54ba84,송파구,장지동 주민센터,새말로19길 6,서울특별시 송파구 새말로19길 6,37.48696579,127.1324383,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_570ababca166,송파구,가락2동 치안센터,오금로46길 55,서울특별시 송파구 오금로46길 55,37.493222,127.132364,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_d6e6e3382eb7,송파구,거여1동주민센터,오금로53길 32,서울특별시 송파구 오금로53길 32,37.49694015,127.1433044,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_14e5e4184a1c,성북구,석관동주민센터,화랑로 296,서울특별시 성북구 화랑로 296,37.612964,127.061411,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_73e6de9a58cc,성북구,정릉감리교회,보국문로8길 23,서울특별시 성북구 보국문로8길 23,37.60782,127.01142,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_4483c3f4cb1a,성북구,안암교회,보문로30가길 41-6,서울특별시 성북구 보문로30가길 41-6,37.58935694,127.0223492,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_35142ae47810,성북구,제일빌딩,북악산로31길 8,서울특별시 성북구 북악산로31길 8,37.59294637,127.0355512,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_f975b3cac5c6,성북구,성북희망나눔봉사센터,삼양로 20,서울특별시 성북구 삼양로 20,37.60501499,127.024878,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_ddc573b21bf8,성북구,아리랑 시네미디어센터,아리랑로 82,서울특별시 성북구 아리랑로 82,37.60005916,127.0139264,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_490e770c9df4,성북구,장위1동 주민센터,장위로 61,서울특별시 성북구 장위로 61,37.61406941,127.0436685,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_94f04d877c1f,성북구,보문부모아이지원센터,지봉로24길 26,서울특별시 성북구 지봉로24길 26,37.583872,127.019325,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_4000fdb88f31,성동구,성동구립도서관,고산자로10길 9,서울특별시 성동구 고산자로10길 9,37.55917986,127.0349607,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_fd5775b92f39,성동구,성수2가3동공영주차장,광나루로 4가길 23,서울특별시 성동구 광나루로 4가길 23,37.549125,127.055178,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_63c72081b108,성동구,열린금호교육문화회관,무수막길 69,서울특별시 성동구 무수막길 69,37.552556,127.020108,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_ec64da86da92,성동구,왕십리제2동주민센터,무학봉15길 6,서울특별시 성동구 무학봉15길 6,37.56178,127.031,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_02660790129b,성동구,하왕십리 공영주차장,무학봉길 48,서울특별시 성동구 무학봉길 48,37.560286,127.027922,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_3854267b1a32,성동구,사근동주민센터,사근동길 37,서울특별시 성동구 사근동길 37,37.56149947,127.0453261,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_fefb830ab754,성동구,성동구민종합체육센터,왕십리로 89,서울특별시 성동구 왕십리로 89,37.54584155,127.044028,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_04cd213e4561,서초구,양재2동주민센터,강남대로12길 44,서울특별시 서초구 강남대로12길 44,37.470645,127.041283,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_55418b8933f5,서초구,언구비 공영주차장,강남대로83길 55,서울특별시 서초구 강남대로83길 55,37.50472778,127.0209716,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_cd176331d561,서초구,양재1동민원분소,남부순환로 2610,서울특별시 서초구 남부순환로 2610,37.48452,127.03613,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_0d4ab1586ba1,서초구,방배열린문화센터,방배로 173,서울특별시 서초구 방배로 173,37.488914,126.992208,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_cb52feef2263,서초구,서초꿈나무라이온스 보금자리,언남10길 48,서울특별시 서초구 언남10길 48,37.47228556,127.045558,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_d607250da85a,서초구,방배2동 주민센터,청두곶길 36,서울특별시 서초구 청두곶길 36,37.47977266,126.9855596,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_d3a24072a97a,서대문구,청년누리,증가로4길 8-45,서울특별시 서대문구 증가로4길 8-45,37.576203,126.926378,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_58b30b268e9f,서대문구,서부제일교회 어린이도서관,가좌로 154,서울특별시 서대문구 가좌로 154,37.5858722,126.9234383,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_762cbffe134a,서대문구,신한은행 명지대 지점,거북골로 45(남가좌동),서울특별시 서대문구 거북골로 45(남가좌동),37.578786,126.923069,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_1ab4e1a2e48d,서대문구,남가좌2동제2공영주차장,명지대5길 10-8,서울특별시 서대문구 명지대5길 10-8,37.583156,126.92295,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9554abc06b6d,서대문구,홍은2동 주민센터,모래내로 334,서울특별시 서대문구 모래내로 334,37.58010822,126.9341504,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_557a651707d1,서대문구,봉원교회 북카페 옆,봉원사2길 13,서울특별시 서대문구 봉원사2길 13,37.56824,126.94669,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_0f573afdacfa,서대문구,북아현동 주민센터,북아현로 24,서울특별시 서대문구 북아현로 24,37.559471,126.9570364,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_2f8c58752ada,서대문구,충현동주민센터,북아현로22길 38,서울특별시 서대문구 북아현로22길 38,37.56480694,126.9547199,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_6d17222519f0,서대문구,신한은행 남가좌동점,서대문구 수색로2길 36(남가좌동),서울특별시 서대문구 수색로2길 36(남가좌동),37.57041,126.91627,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_501189b7be83,서대문구,신한은행 연희동점,서대문구 연희맛로 28,서울특별시 서대문구 연희맛로 28,37.56724,126.93046,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_6901c93aebc2,서대문구,홍제3동 주민센터,세검정로4길 32,서울특별시 서대문구 세검정로4길 32,37.59376654,126.9496911,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_cadf46c81636,서대문구,연희동주민센터,연희로 189,서울특별시 서대문구 연희로 189,37.57388702,126.9352207,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_22233d5faa8a,서대문구,홍은1동주민센터,홍은중앙로 85,서울특별시 서대문구 홍은중앙로 85,37.59885301,126.9471453,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_0ff3f876e4e1,마포구,마포아트센터,대흥로20길 28,서울특별시 마포구 대흥로20길 28,37.54990608,126.9455338,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_361d54a0ffe6,마포구,도화동 주민센터,도화길 37,서울특별시 마포구 도화길 37,37.54153102,126.9498754,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_81e922c5f311,마포구,서강동주민센터,독막로 165,서울특별시 마포구 독막로 165,37.547486,126.931939,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_804f515437cd,마포구,신수동주민센터,독막로 192,서울특별시 마포구 독막로 192,37.54715922,126.9351046,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_530b2e4b2d41,마포구,연남동 주민커뮤니티센터,동교로41길 36,서울특별시 마포구 동교로41길 36,37.56385777,126.9234261,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_e82b3f9420a0,마포구,상암동 주민센터후문,매봉산로2길 16,서울특별시 마포구 매봉산로2길 16,37.578333,126.894672,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_005caea2f9f7,마포구,연남동희망원룸주택,성미산로17길 79,서울특별시 마포구 성미산로17길 79,37.56502166,126.9171983,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_87b3e7fd06ff,마포구,성산1동주민센터,성산로 4길 15,서울특별시 마포구 성산로 4길 15,37.563367,126.907897,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_4bf17190efda,마포구,상암동 제1공영주차장,성암로 197,서울특별시 마포구 성암로 197,37.57727381,126.8971661,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_b1c4fa1c1390,마포구,대흥동주민센터,신촌로26길 10,서울특별시 마포구 신촌로26길 10,37.555879,126.942393,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_8adf8ab83da5,마포구,동교치안센터,신촌로2안길 27,서울특별시 마포구 신촌로2안길 27,37.55727,126.92866,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_cd3ab2b647ee,마포구,망원2치안센터,월드컵로31길 18,서울특별시 마포구 월드컵로31길 18,37.561628,126.903753,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_b0202200b7a3,마포구,성산2동주민센터,월드컵북로30길 22,서울특별시 마포구 월드컵북로30길 22,37.56861385,126.9089696,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_eb590307d56a,마포구,서교동교회,잔다리로6길 11,서울특별시 마포구 잔다리로6길 11,37.552472,126.919822,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9e840cbd3e7e,마포구,서현교회,잔다리로7길 31,서울특별시 마포구 잔다리로7길 31,37.55285,126.916081,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_79e167674a7b,동작구,예그리나주택,국사봉8길 47,서울특별시 동작구 국사봉8길 47,37.49471905,126.9308598,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_af9cc0adbf04,동작구,사당노인종합복지관,남부순환로 2081,서울특별시 동작구 남부순환로 2081,37.47701714,126.9798517,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_37ac0a88285b,동작구,스페이스살림,노량진로 10,서울특별시 동작구 노량진로 10,37.51235,126.927154,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_572974cbbdbd,동작구,순만빌딩,노량진로 169,서울특별시 동작구 노량진로 169,37.51409934,126.9448254,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_18ef4c4808d5,동작구,현대오일뱅크 사당셀프점,동작대로 73,서울특별시 동작구 동작대로 73,37.48311,126.98156,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9c4201e480b6,동작구,강남교회 교육관,만양로 76,서울특별시 동작구 만양로 76,37.51032644,126.9451014,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_a1bfddd0ec53,동작구,사당종합체육관,사당로27길 232,서울특별시 동작구 사당로27길 232,37.49281,126.96966,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_2923c6201549,동작구,사당문화회관,사당로8길 9,서울특별시 동작구 사당로8길 9,37.4847167,126.9696126,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_c2977b7f9fe8,동작구,동작 청소년문화의 집,상도로15바길 5,서울특별시 동작구 상도로15바길 5,37.50405039,126.9332459,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_838be107e928,동작구,신한은행 숭실대역 지점,상도로37길 76 (상도동),서울특별시 동작구 상도로37길 76 (상도동),37.497603,126.953122,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_1914a801c2e0,동작구,상도1동주민센터,상도로53길 9,서울특별시 동작구 상도로53길 9,37.49810131,126.9530811,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_fc5e7f602923,동작구,상도3동 주민센터,성대로2길 11,서울특별시 동작구 성대로2길 11,37.49912575,126.931404,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_4a9f937d22fe,동작구,신대방해피점,신대방1나길 26,서울특별시 동작구 신대방1나길 26,37.48647483,126.9076849,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_d4e043175e73,동작구,국민은행 동작구청지점,장승배기로 161,서울특별시 동작구 장승배기로 161,37.51252778,126.9399421,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_573bb948e80c,동대문구,답십리2청소년독서실,답십리로56길 15,서울특별시 동대문구 답십리로56길 15,37.5721,127.05948,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_c7332e436850,동대문구,장안2동 공영주차장,답십리로65길 124-5,서울특별시 동대문구 답십리로65길 124-5,37.57826386,127.0706008,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9991a485f6f8,동대문구,휘경동공영주차장,망우로12길 33,서울특별시 동대문구 망우로12길 33,37.588047,127.058128,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_5ca4fe8a3dc5,동대문구,답십리도서관,서울시립대로4길 75,서울시립대로4길 75,37.57319298,127.0503603,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_975e958040f1,동대문구,동대문구청 종합민원실,천호대로 145,서울특별시 동대문구 천호대로 145,37.57439171,127.0398965,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_5d9cb6b4f600,동대문구,장안종합사회복지관,한천로18길 48,서울특별시 동대문구 한천로18길 48,37.56795152,127.0661707,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_96a4b56b78fd,동대문구,이문체육문화센터,한천로58길 81-49,서울특별시 동대문구 한천로58길 81-49,37.6023,127.06884,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_88fc51374e4f,동대문구,정보화도서관,회기로10길 60,서울특별시 동대문구 회기로10길 60,37.58996952,127.0472897,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_3beacd5b10e6,동대문구,회기동공영주차장,회기로25길 31,서울특별시 동대문구 회기로25길 31,37.59230943,127.0559085,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_d2f35c000ca5,동대문구,신한은행 외대역 지점,휘경로 23(이문동),서울특별시 동대문구 휘경로 23(이문동),37.595589,127.062647,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9bf725a266af,도봉구,창2동 신창교회,덕릉로 247,서울특별시 도봉구 덕릉로 247,37.63984358,127.0388073,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_ed47c50b6e67,도봉구,창3동 주민센터,덕릉로62길 89,서울특별시 도봉구 덕릉로62길 89,37.63809005,127.0429215,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_59429b3b304b,도봉구,도봉구민회관,도봉로 552,서울특별시 도봉구 도봉로 552,37.65416726,127.0386849,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_af558ac3896c,도봉구,염광교회,도봉로120길 16,서울특별시 도봉구 도봉로120길 16,37.65038056,127.0374291,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_4390f65f12d5,도봉구,도봉1동주민센터,도봉로169나길 22,서울특별시 도봉구 도봉로169나길 22,37.67869082,127.0434132,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_8c7e6ffe03df,도봉구,도봉서원종합사회복지관,마들로 668,서울특별시 도봉구 마들로 668,37.66967564,127.046534,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_70e168866c13,도봉구,방아골종합사회복지관,시루봉로17길 42,서울특별시 도봉구 시루봉로17길 42,37.66931252,127.0326388,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_21e3194807d3,노원구,공릉 청소년문화정보센터,노원로1나길 10,서울특별시 노원구 노원로1나길 10,37.62151983,127.0830492,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_7c90b11b1537,노원구,"상계3,4동 주민센터",덕릉로 859,서울특별시 노원구 덕릉로 859,37.67291122,127.0832362,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_ce60ac123ae3,노원구,공릉종합사회복지관,동일로 1127 공릉아파트,서울특별시 노원구 동일로 1127 공릉아파트,37.630164,127.069856,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_5c81d470fd9c,노원구,상계문화정보도서관,동일로 243길 57,서울특별시 노원구 동일로 243길 57,37.67842,127.05189,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_e478f7eea7f4,노원구,공릉1동 주민센터(노원),동일로186길 3-24,서울특별시 노원구 동일로186길 3-24,37.62477802,127.0737505,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_c2f1f03d2aa9,노원구,상계2동주민센터,상계로 118,서울특별시 노원구 상계로 118,37.65748324,127.0678641,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9a3d9f15b0b5,노원구,상계역 자전거대여소,상계로 190,서울특별시 노원구 상계로 190,37.66136038,127.0740077,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_36881757a2b1,금천구,신한은행 금천점,금천구 금하로 747-1(시흥동),서울특별시 금천구 금하로 747-1(시흥동),37.45023,126.91286,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_78fa217501c4,금천구,독산2동주민센터,독산로 179,서울특별시 금천구 독산로 179,37.463147,126.903483,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_ec5120bf3543,금천구,시흥4동 주민센터,독산로36길 14,서울특별시 금천구 독산로36길 14,37.45897882,126.9061845,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_def528f6e56d,금천구,금천호암노인복지관,독산로72길 86-5,서울특별시 금천구 독산로72길 86-5,37.46951288,126.9064493,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_f703e1d41f8e,금천구,독산1동주민센터,시흥대로123길 11,서울특별시 금천구 시흥대로123길 11,37.47021904,126.8970437,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_14b404d40634,금천구,시흥3동 주민센터,시흥대로18길 40,서울특별시 금천구 시흥대로18길 40,37.44025906,126.9058017,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_19d644760efc,금천구,금천구청,시흥대로73길 70,서울특별시 금천구 시흥대로73길 70,37.45706564,126.8960369,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_6d70ce3a5169,구로구,구로구민회관,가마산로25길 21,서울특별시 구로구 가마산로25길 21,37.49710267,126.8895491,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_a07f00768cb1,구로구,오류1동텃골공영주차장,경인로15길 22,서울특별시 구로구 경인로15길 22,37.49547454,126.8391859,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_57d01e15d682,구로구,구로구민 체육센터,고척로45길 39,서울특별시 구로구 고척로45길 39,37.5065812,126.8532759,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_2e86b99262e8,구로구,구로2동주민센터앞,구로동로 141,서울특별시 구로구 구로동로 141,37.49131972,126.883399,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_90447c061267,구로구,구로구 시설관리공단,구로동로26길 54,서울특별시 구로구 구로동로26길 54,37.48988023,126.8865602,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_2bbe157a4e26,구로구,구로역1번출구 NC백화점,구로중앙로 174,서울특별시 구로구 구로중앙로 174,37.50243453,126.8814915,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_a9380cea40ca,구로구,서울교통공사대림별관,도림천로 352,서울특별시 구로구 도림천로 352,37.49343362,126.8942425,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_f3c46ca1d738,광진구,중곡종합건강센터,긴고랑로 110,서울특별시 광진구 긴고랑로 110,37.55933775,127.0870912,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_bc8a0a5e6942,광진구,중곡1동주민센터,긴고랑로12길 49,서울특별시 광진구 긴고랑로12길 49,37.56066758,127.0800521,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_46897a2fa589,광진구,중곡문화체육센터,능동로 433,서울특별시 광진구 능동로 433,37.56777923,127.0848024,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_fe3f95b453b4,광진구,화양동주민센터,능동로17길 39,서울특별시 광진구 능동로17길 39,37.54653715,127.0713179,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_61d95b8671c4,광진구,자양4동 주민센터,뚝섬로26길 58,서울특별시 광진구 뚝섬로26길 58,37.53409774,127.0662583,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_405bff64aa69,광진구,자양문화체육센터,뚝섬로52길 66,서울특별시 광진구 뚝섬로52길 66,37.52925,127.07752,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_1fc72d309998,광진구,군자동 주민센터,면목로 13,서울특별시 광진구 면목로 13,37.55549,127.07544,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_3ffa05b807db,광진구,동부여성발전센터,아차산로30길 36,서울특별시 광진구 아차산로30길 36,37.53940284,127.0667178,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_8e800410fe96,광진구,광진경찰서,자양로 167,서울특별시 광진구 자양로 167,37.54291139,127.0839021,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9362a67dd439,광진구,구의2동주택가 공동주차장,자양로 309,서울특별시 광진구 자양로 309,37.55309169,127.0931195,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_f7108fce9b33,광진구,자양2동주민센터,자양로3가길 26,서울특별시 광진구 자양로3가길 26,37.5288,127.084389,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_64820407aa82,광진구,자양종합사회복지관,자양번영로 35,서울특별시 광진구 자양번영로 35,37.53289844,127.0752337,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_95db424452d3,관악구,신한은행 신림역점,관악구 신림동 남부순환로 1590,서울특별시 관악구 신림동 남부순환로 1590,37.48372,126.92731,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_dc4b96e6934f,관악구,관악구청,관악로 145,서울특별시 관악구 관악로 145,37.47821059,126.9515013,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_786192875563,관악구,인헌동주민센터,남부순환로246가길 20,서울특별시 관악구 남부순환로246가길 20,37.47509931,126.9653244,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_81148364f0d0,관악구,남현동 주민센터,남현1가길 29,서울특별시 관악구 남현1가길 29,37.47468782,126.9778753,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_4c92625bc04b,관악구,신림여성교실,대학길 64,서울특별시 관악구 대학길 64,37.46792,126.93745,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_59eca32d5bef,관악구,서원동주민센터,신림로 282,서울특별시 관악구 신림로 282,37.47976917,126.9313747,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_8e66765c6d3b,관악구,관악청소년회관,신림로23길 17,서울특별시 관악구 신림로23길 17,37.47024388,126.9352434,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_f41c0d72854e,관악구,청룡동 주민센터,쑥고개로 44,서울특별시 관악구 쑥고개로 44,37.47911752,126.9416408,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_caed9e176ff0,관악구,신한은행 (구)봉천서 지점,은천로 110 (봉천동),서울특별시 관악구 은천로 110 (봉천동),37.486686,126.94735,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_3203b95a009b,관악구,신사동자치회관,조원로 151-1,서울특별시 관악구 조원로 151-1,37.48595223,126.9191029,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_598888a4d01f,관악구,조원동주민센터,조원로12길 25,서울특별시 관악구 조원로12길 25,37.48256328,126.9077947,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_5e59b032d95a,관악구,행운동주민센터,행운1길 43,서울특별시 관악구 행운1길 43,37.4806426,126.9570309,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_cb6575d0b48f,강서구,가로공원공영주차장1번출구,가로공원로 189,서울특별시 강서구 가로공원로 189,37.53723485,126.8370391,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_322ba717b24d,강서구,발산1동주민센터,강서로47길 54,서울특별시 강서구 강서로47길 54,37.55311631,126.8331774,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_fa1928582383,강서구,내발산동 문화센터,강서로52길 89,서울특별시 강서구 강서로52길 89,37.55749617,126.8431978,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_87d797cfd3d6,강서구,곰달래복지문화센터,강서로5길 50,서울특별시 강서구 강서로5길 50,37.52906001,126.8488981,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_238ef642429c,강서구,화곡 1-1 공영주차장,곰달래로15길 28,서울특별시 강서구 곰달래로15길 28,37.53142042,126.8398737,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_c7ccd78cfe70,강서구,화곡8동 주민센터,곰달래로25길 45,서울특별시 강서구 곰달래로25길 45,37.53269577,126.8483303,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_33c57a18842b,강서구,화곡4동주민센터,곰달래로57가길 26,서울특별시 강서구 곰달래로57가길 26,37.53468533,126.8608015,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_76725f0d30ff,강서구,길꽃어린이도서관,금낭화로24길 5,서울특별시 강서구 금낭화로24길 5,37.578736,126.813542,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_19141b79a847,강서구,볏골공원공원주차장,까치산로4길 22,서울특별시 강서구 까치산로4길 22,37.54181557,126.8443228,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_3a117394a195,강서구,신방화역환승주차장,마곡서1로 111-12,서울특별시 강서구 마곡서1로 111-12,37.56694808311365,126.8178402846528,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_16a90633206a,강서구,화곡2동주민센터,서울특별시 강서구 곰달래로37길 13,서울특별시 강서구 곰달래로37길 13,37.531842,126.854517,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_fc6ad73a6b1e,강서구,공항동 주민센터,송정로 45,서울특별시 강서구 송정로 45,37.55878282,126.8100744,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_0600c86a509c,강서구,화곡 6-1 공영주차장,우장산로 114,서울특별시 강서구 우장산로 114,37.55303204,126.848514,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_20576450823c,강서구,화곡 3-1 공영주차장,화곡로15길 40,서울특별시 강서구 화곡로15길 40,37.54176857,126.8347274,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_a396607b48f9,강북구,수유역1번출구,도봉로 338,서울특별시 강북구 도봉로 338,37.63825762,127.0262147,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_c4cccbec8d71,강북구,미아사거리역1번출구,도봉로 50,서울특별시 강북구 도봉로 50,37.614017,127.03021,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9fe821367fc7,강북구,강북구청 본관 입구,도봉로89길 13,서울특별시 강북구 도봉로89길 13,37.63918564,127.0254495,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_c8fa3f91a0b5,강북구,강북문화예술회관,삼각산로 85,서울특별시 강북구 삼각산로 85,37.64098982,127.0138782,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_964d5475530f,강북구,수유1동 주민센터,삼양로 299,서울특별시 강북구 삼양로 299,37.63005161,127.0175593,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_54b9735b9aa0,강북구,솔밭근린공원 개방화장실,삼양로 561,서울특별시 강북구 삼양로 561,37.65301303,127.0122541,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_68299b83b381,강북구,미아동 복합청사,솔매로49길 14,서울특별시 강북구 솔매로49길 14,37.62709132,127.0269752,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_a807da91726c,강북구,번동북부시장 북부마트,한천로123길 26,서울특별시 강북구 한천로123길 26,37.63623598,127.0303422,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_c753f9622150,강동구,강동구립암사도서관,고덕로20길 42,서울특별시 강동구 고덕로20길 42,37.55283303,127.1333655,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_ec4a871e38e6,강동구,길동주민센터,길동 228-10,서울특별시 강동구 길동 228-10,37.53445,127.14268,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_037152d2a80d,강동구,강동구민회관,상암로 168,서울특별시 강동구 상암로 168,37.54573146,127.1412225,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_163e667d9a5c,강동구,암사2동 주민센터,상암로3길 28,서울특별시 강동구 상암로3길 28,37.55170631,127.1272709,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9565c067fc7d,강동구,둔촌역전통시장공영주차장,성내동 417-34,서울특별시 강동구 성내동 417-34,37.528578,127.133714,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9f2ee61a6e5f,강동구,성내1동 주민센터,성내로 13,서울특별시 강동구 성내로 13,37.53047772,127.122458,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_48cb1f75ae8e,강동구,강동구립해공도서관,올림픽로 702,서울특별시 강동구 올림픽로 702,37.5440326349,127.125559726,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9a9b29ad4fb3,강남구,도곡2동주민센터,남부순환로378길 34-9,서울특별시 강남구 남부순환로378길 34-9,37.48372311,127.046407,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_53b587e8ef29,강남구,역삼청소년수련관,논현로64길 7,서울특별시 강남구 논현로64길 7,37.493975,127.040911,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_554c166a94be,강남구,도곡1동 주민센터,도곡로18길 57,서울특별시 강남구 도곡로18길 57,37.48831029,127.0388804,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_efa475cdae79,강남구,대치4동 주민센터,도곡로77길 23,서울특별시 강남구 도곡로77길 23,37.49972971,127.0578495,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_9ba2f45aec14,강남구,현대오일뱅크 신사현대점,서울특별시 강남구 도산대로 163,서울특별시 강남구 도산대로 163,37.51934,127.02633,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_7b6fce71c753,강남구,역삼1동 주민센터,역삼로7길 16,서울특별시 강남구 역삼로7길 16,37.495356,127.033375,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_92ea6b8bca13,강남구,대치2동 주민센터,영동대로65길 24,서울특별시 강남구 영동대로65길 24,37.50230436,127.0641877,2026-08-26,seoul_open_api,seoul_open_api,original
+LKR_42d653fdae5c,강남구,논현1동주민센터,학동로20길 25,서울특별시 강남구 학동로20길 25,37.51150384,127.0285346,2026-08-26,seoul_open_api,seoul_open_api,original
