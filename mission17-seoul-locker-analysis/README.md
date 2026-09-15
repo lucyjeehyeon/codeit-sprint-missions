@@ -89,6 +89,19 @@ Looker Studio 대시보드는 다음 5개 화면으로 구성했습니다.
 
 ---
 
+## Mentor Feedback
+
+파이프라인 구축부터 분석까지 전체 과정을 안정적으로 수행했다는 평가를 받았습니다.
+
+특히 시설 수만 단순 비교하지 않고
+**수요 대비 공급, 실제 이용 수준, 장기 추세**를 함께 고려해
+설치 우선순위를 판단한 분석 구조를 긍정적으로 평가받았습니다.
+
+또한 현재 이용량과 장기 추세를 분리해
+강남구와 관악구에 서로 다른 운영 판단을 내린 점이 인상적이었다는 피드백을 받았습니다.
+
+---
+
 ## Files
 
 - [Analysis Notebook](https://github.com/lucyjeehyeon/codeit-sprint-missions/blob/main/mission17-seoul-locker-analysis/notebooks/mission17_seoul_locker_analysis.ipynb)
